@@ -48,6 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
 </div>
 
+<p><img align="center" src="https://i.pinimg.com/originals/29/b9/13/29b913ba06648273dda47b86bf7536f4.jpg" /></p>
 
 <!--
 **pz579/pz579** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
